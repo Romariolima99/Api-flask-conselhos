@@ -30,4 +30,4 @@ Conselhos = [
   {"pular":{"id": 28, "conselho": "Aprenda a dizer sim para as oportunidades que o levam a crescer."}},
   {"pular":{"id": 29, "conselho": "Acredite na sua capacidade de superar desafios, você é resiliente."}},
   {"pular":{"id": 30, "conselho": "Nunca desista dos seus sonhos, o sucesso pode estar ao virar da esquina."}},
-]
+] 
