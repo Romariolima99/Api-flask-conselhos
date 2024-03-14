@@ -11,9 +11,9 @@
 
 # Exemplo de resposta:
 
-<img src="https://i.imgur.com/o2KXjYc.png" alt="GIF" data-canonical-src="https://i.imgur.com/o2KXjYc.png" style="max-width: 50%;">
+<img src="https://i.imgur.com/NBoTDIx.png" alt="GIF" data-canonical-src="https://i.imgur.com/NBoTDIx.png" style="max-width: 50%;">
 
-`[{"pular": {"id": 30, "conselho": "Nunca desista dos seus sonhos, o sucesso pode estar ao virar da esquina."}}]`
+`[{"slip": {"id": 13, "conselho": "Pratique a empatia, coloque-se no lugar dos outros."}}]`
 
 # Como Usar
 - Faça uma requisição GET para o endpoint localhost/api/conselhos
